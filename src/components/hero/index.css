@@ -1,0 +1,47 @@
+.hero {
+    background: #FBF8F5;
+}
+
+.hero-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 179px;
+}
+
+.hero-title {
+    width: 376px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px;
+}
+
+.hero-text {
+    width: 523px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    padding-top: 18px;
+}
+
+.hero-btn {
+    width: 154px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #E9672B;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    border: none;
+    margin-top: 46px;
+}

@@ -1,0 +1,25 @@
+.shopbyroom {
+    background: #FBF8F5;
+}
+
+.shopbyroom-inner {
+    padding-top: 36px;
+}
+
+.shopbyroom-title {
+    margin-left: 440px;
+    width: 319px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 54px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 43px;
+}
